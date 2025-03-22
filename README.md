@@ -27,11 +27,3 @@ For more details about the project, you can read the official article: [https://
 2.  Navigate to the project directory: `cd [project directory]`
 3.  Install the required libraries: `pip install -r requirements.txt` (if you have a requirements.txt)
 4.  Open and run the Jupyter notebooks in the `notebooks/` directory.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
-
-## Contact
-
-For any questions or inquiries, please contact [Your Name] at [Your Email].
