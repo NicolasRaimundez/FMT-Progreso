@@ -4,7 +4,7 @@ This repository contains the code and resources for my Master's Thesis Project (
 
 ## Project Overview
 
-This project aimed to analyze and optimize sustainable coffee production practices using data-driven insights. The analysis focused on [mention key areas of analysis, e.g., environmental impact, economic efficiency, social factors].
+This project uses geospatial data analysis to identify overlaps between coffee farming regions supported by Progreso in Colombia and areas experiencing deforestation. It aims to create a scalable framework to help Progreso assess environmental risks, comply with EU regulations, and promote sustainable coffee production.
 
 For more details about the project, you can read the official article: [https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/](https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/)
 
