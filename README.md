@@ -15,11 +15,11 @@ This repository contains the code and resources for my Master's Thesis Project (
 
 This project uses geospatial data analysis to identify overlaps between coffee farming regions supported by Progreso in Colombia and areas experiencing deforestation. It aims to create a scalable framework to help Progreso assess environmental risks, comply with EU regulations, and promote sustainable coffee production.
 
-💻📝 [Here you can read the official Progreso´s Blog!](https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/)
+* 💻📝 [Here you can read the official Progreso´s Blog!](https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/)
 
-🧑‍💻📊 [Here you can check the entire analysis](https://github.com/NicolasRaimundez/FMT-Progreso/tree/main/scripts)
+* 🧑‍💻📊 [Here you can check the entire analysis](https://github.com/NicolasRaimundez/FMT-Progreso/tree/main/scripts)
 
-📄 [Here you can check the Final TFM Presentation](https://drive.google.com/file/d/12Usi28NzMNxsdLkNNF_evwUh7XBHD-ll/view)
+* 📄 [Here you can check the Final TFM Presentation](https://drive.google.com/file/d/12Usi28NzMNxsdLkNNF_evwUh7XBHD-ll/view)
 
 ## Repository Contents
 
