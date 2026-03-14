@@ -7,6 +7,10 @@
 
 This repository contains the code and resources for my Master's Thesis Project (TFM) in collaboration with Progreso and Beyco, focusing on improving sustainable coffee production.
 
+<p align="center">
+<img src="images/Progreso_image.png" width="800" alt="Progreso_Image">
+</p>
+
 ## Project Overview
 
 This project uses geospatial data analysis to identify overlaps between coffee farming regions supported by Progreso in Colombia and areas experiencing deforestation. It aims to create a scalable framework to help Progreso assess environmental risks, comply with EU regulations, and promote sustainable coffee production.
