@@ -17,6 +17,10 @@ This project uses geospatial data analysis to identify overlaps between coffee f
 
 For more details about the project, you can read the official article: [https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/](https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/)
 
+💻📝[Here you can check the entire analysis!](https://www.progreso.nl/students-from-eae-business-school-barcelona-collaborate-with-progreso-beyco-to-improve-sustainable-coffee-production/))
+🧑‍💻📊 [Here you can check the entire analysis!](https://github.com/NicolasRaimundez/FMT-Progreso/tree/main/scripts))
+📄 [Here you can check the Final TFM Presentation!](https://drive.google.com/file/d/12Usi28NzMNxsdLkNNF_evwUh7XBHD-ll/view))
+
 ## Repository Contents
 
 * `data/`: Contains the datasets used in the analysis.
