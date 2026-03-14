@@ -8,7 +8,7 @@
 This repository contains the code and resources for my Master's Thesis Project (TFM) in collaboration with Progreso and Beyco, focusing on improving sustainable coffee production.
 
 <p align="center">
-<img src="images/Progreso_image.png" width="800" alt="Progreso_Image">
+<img src="Progreso_image.png" width="800" alt="Progreso_Image">
 </p>
 
 ## Project Overview
