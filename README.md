@@ -23,16 +23,16 @@ This project uses geospatial data analysis to identify overlaps between coffee f
 
 ## Repository Contents
 
-* `data/`: Contains the datasets used in the analysis.
-* `notebooks/`: Includes Jupyter notebooks with the analysis code.
-* `reports/`: Contains the final report and presentations.
-* `scripts/`: Contains python scripts used in the project.
+* `data`: Contains the datasets used in the analysis.
+* `notebooks`: Includes Jupyter notebooks with the analysis code.
+* `reports`: Contains the final report and presentations.
+* `scripts`: Contains python scripts used in the project.
 
 ## Technologies Used
 
 * Python (Pandas, NumPy, Scikit-learn)
 * SQL
-* Power BI / Tableau (if applicable)
+* Power BI
 
 ## Getting Started
 
